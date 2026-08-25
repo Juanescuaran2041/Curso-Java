@@ -1,5 +1,3 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class BeginnerExercises {
     public static void main(String[] args) {
         // 1. Declara una variable de tipo String y asígnale tu nombre.
