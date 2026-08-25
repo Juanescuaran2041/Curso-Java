@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BeginnerExercises/BeginnerExercises.iml" filepath="$PROJECT_DIR$/BeginnerExercises/BeginnerExercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConditionalExercises/ConditionalExercises.iml" filepath="$PROJECT_DIR$/ConditionalExercises/ConditionalExercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditionals/Conditionals.iml" filepath="$PROJECT_DIR$/Conditionals/Conditionals.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Curso-Java.iml" filepath="$PROJECT_DIR$/.idea/Curso-Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/HolaMundo/HelloWorldExercises/HelloWorldExercises.iml" filepath="$PROJECT_DIR$/HolaMundo/HelloWorldExercises/HelloWorldExercises.iml" />
       <module fileurl="file://$PROJECT_DIR$/HolaMundo/HolaMundo.iml" filepath="$PROJECT_DIR$/HolaMundo/HolaMundo.iml" />
