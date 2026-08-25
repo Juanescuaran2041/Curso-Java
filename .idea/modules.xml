@@ -8,6 +8,8 @@
       <module fileurl="file://$PROJECT_DIR$/HolaMundo/HolaMundo.iml" filepath="$PROJECT_DIR$/HolaMundo/HolaMundo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Operators/Operators.iml" filepath="$PROJECT_DIR$/Operators/Operators.iml" />
       <module fileurl="file://$PROJECT_DIR$/OperatorsExercise/OperatorsExercise.iml" filepath="$PROJECT_DIR$/OperatorsExercise/OperatorsExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringsExercises/StringsExercises.iml" filepath="$PROJECT_DIR$/StringsExercises/StringsExercises.iml" />
       <module fileurl="file://$PROJECT_DIR$/VariablesAndConstants/VariablesAndConstants.iml" filepath="$PROJECT_DIR$/VariablesAndConstants/VariablesAndConstants.iml" />
     </modules>
   </component>
