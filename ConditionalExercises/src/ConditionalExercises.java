@@ -103,7 +103,7 @@ public class ConditionalExercises {
 
         char letraMinuscula = Character.toLowerCase(letra);
 
-        if (letraMinuscula == 'a' || letraMinuscula == 'e' || letra == 'i' || letra == 'o' || letra == 'u' ) {
+        if (letraMinuscula == 'a' || letraMinuscula == 'e' || letraMinuscula == 'i' || letraMinuscula == 'o' || letraMinuscula == 'u' ) {
             System.out.println("Vocal");
         } else if (letraMinuscula >= 'a' && letraMinuscula <= 'z') {
             System.out.println("Consonante");
@@ -116,9 +116,9 @@ public class ConditionalExercises {
         int y = 20;
         int z = 30;
 
-        if (x > y && x > z ){
+        if (x >= y && x >= z ){
             System.out.println("El numero mayor es: " + x);
-        }else if (y > x && y > z){
+        }else if (y >= x && y >= z){
             System.out.println("El numero mayor es: " + y);
         }else{
             System.out.println("El numero mayor es: " + z);
