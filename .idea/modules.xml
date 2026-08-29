@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/OperatorsExercise/OperatorsExercise.iml" filepath="$PROJECT_DIR$/OperatorsExercise/OperatorsExercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/StringsExercises/StringsExercises.iml" filepath="$PROJECT_DIR$/StringsExercises/StringsExercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structures/Structures.iml" filepath="$PROJECT_DIR$/Structures/Structures.iml" />
       <module fileurl="file://$PROJECT_DIR$/VariablesAndConstants/VariablesAndConstants.iml" filepath="$PROJECT_DIR$/VariablesAndConstants/VariablesAndConstants.iml" />
     </modules>
   </component>
